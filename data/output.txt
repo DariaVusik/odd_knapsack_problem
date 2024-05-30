@@ -1,0 +1,4 @@
+Item 5 weight: 60 value: 130 solution value: 1
+Total items value: 130
+Total weight: 60
+Number of items: 1
